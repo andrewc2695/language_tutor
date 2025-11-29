@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "language_tutor",
   "private": true,
   "scripts": {
     "build": "turbo run build",
