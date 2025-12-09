@@ -1,0 +1,32 @@
+{
+  "name" : "final partials",
+  "isSpacedRepetition" : true,
+  "cards" : [
+    {
+      "completed" : true,
+      "nextCompletionDate" : 1765941224.3172441,
+      "completedAt" : 1763608424.3172359,
+      "backText" : "Infer usual behavior nei sik mat yeah ga? What do you usually eat?",
+      "frontText" : "Gaa3",
+      "level" : 4
+    },
+    {
+      "nextCompletionDate" : 1765941220.1176291,
+      "frontText" : "Aa3",
+      "completedAt" : 1763608420.1176219,
+      "level" : 4,
+      "completed" : true,
+      "backText" : "For asking about the future"
+    },
+    {
+      "nextCompletionDate" : 1765941215.4509749,
+      "completedAt" : 1763608415.4509649,
+      "frontText" : "Maa2",
+      "level" : 4,
+      "backText" : "For asking a question",
+      "completed" : true
+    }
+  ],
+  "isTutorial" : false,
+  "isTranslationEnabled" : true
+}

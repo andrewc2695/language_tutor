@@ -1,0 +1,104 @@
+{
+  "isTutorial" : false,
+  "name" : "directions",
+  "isSpacedRepetition" : true,
+  "isTranslationEnabled" : true,
+  "cards" : [
+    {
+      "completedAt" : 1763608004.443634,
+      "nextCompletionDate" : 1764385604.4436421,
+      "completed" : true,
+      "level" : 3,
+      "frontText" : "Every day of the week",
+      "backText" : "Sing go sing kei"
+    },
+    {
+      "backText" : "Deoi3 min6",
+      "completed" : true,
+      "frontText" : "Opposite side",
+      "completedAt" : 1763607979.241668,
+      "level" : 3,
+      "nextCompletionDate" : 1764385579.2417588
+    },
+    {
+      "backText" : "Gaak3 lei4",
+      "completedAt" : 1763652575.125437,
+      "nextCompletionDate" : 1764430175.1254489,
+      "level" : 3,
+      "completed" : true,
+      "frontText" : "Neighboring; next to"
+    },
+    {
+      "backText" : "Fu6 gan6",
+      "frontText" : "Nearby",
+      "completedAt" : 1763608012.776439,
+      "level" : 3,
+      "nextCompletionDate" : 1764385612.776444,
+      "completed" : true
+    },
+    {
+      "frontText" : "Upstairs",
+      "backText" : "Lau4 Soeng6",
+      "completed" : true,
+      "level" : 3,
+      "completedAt" : 1763608035.6113172,
+      "nextCompletionDate" : 1764385635.6113238
+    },
+    {
+      "completedAt" : 1763608023.9606829,
+      "backText" : "Lau4 haa6",
+      "completed" : true,
+      "level" : 3,
+      "nextCompletionDate" : 1764385623.96069,
+      "frontText" : "Downstairs"
+    },
+    {
+      "nextCompletionDate" : 1765985362.406811,
+      "frontText" : "Whatever; it doesn’t matter",
+      "completedAt" : 1763652562.406739,
+      "level" : 4,
+      "completed" : true,
+      "backText" : "Si daan la"
+    },
+    {
+      "backText" : "Tung4 si6",
+      "level" : 3,
+      "completedAt" : 1763607991.3752298,
+      "completed" : true,
+      "nextCompletionDate" : 1764385591.3752379,
+      "frontText" : "Co workers"
+    },
+    {
+      "frontText" : "How to do a verb",
+      "completed" : true,
+      "backText" : "Dim2 + verb",
+      "completedAt" : 1763607999.026495,
+      "level" : 3,
+      "nextCompletionDate" : 1764385599.026505
+    },
+    {
+      "backText" : "Mou5 + verb",
+      "completed" : true,
+      "frontText" : "Refer to something you didn’t do in the past; didn’t",
+      "nextCompletionDate" : 1764385630.3953829,
+      "level" : 3,
+      "completedAt" : 1763608030.3953738
+    },
+    {
+      "backText" : "Mh4 + verb",
+      "completedAt" : 1763608039.3135829,
+      "level" : 3,
+      "nextCompletionDate" : 1764385639.313591,
+      "frontText" : "To not do something in the present or future; don’t",
+      "completed" : true
+    },
+    {
+      "nextCompletionDate" : 1764385584.441355,
+      "frontText" : "Close adj.",
+      "completed" : true,
+      "level" : 3,
+      "backText" : "Kan6",
+      "completedAt" : 1763607984.441334
+    }
+  ]
+}

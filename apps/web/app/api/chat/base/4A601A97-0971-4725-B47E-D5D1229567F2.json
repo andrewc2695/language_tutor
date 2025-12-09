@@ -1,0 +1,72 @@
+{
+  "isTutorial" : false,
+  "name" : "time of day",
+  "isTranslationEnabled" : true,
+  "cards" : [
+    {
+      "nextCompletionDate" : 1765163555.9339681,
+      "frontText" : "Early morning",
+      "completedAt" : 1762830755.933959,
+      "backText" : "Ziu1 tau4 zou2",
+      "completed" : true,
+      "level" : 4
+    },
+    {
+      "backText" : "Soeng6 zau3",
+      "nextCompletionDate" : 1765163515.3957219,
+      "completed" : true,
+      "completedAt" : 1762830715.3957109,
+      "level" : 4,
+      "frontText" : "Morning"
+    },
+    {
+      "completedAt" : 1762830759.8651528,
+      "backText" : "Zung1 ng5",
+      "level" : 4,
+      "completed" : true,
+      "frontText" : "Noon",
+      "nextCompletionDate" : 1765163559.86516
+    },
+    {
+      "completedAt" : 1762830744.000628,
+      "nextCompletionDate" : 1765163544.0006351,
+      "level" : 4,
+      "completed" : true,
+      "backText" : "Haa6 zau3",
+      "frontText" : "Afternoon"
+    },
+    {
+      "backText" : "Je6 maan5",
+      "completed" : true,
+      "frontText" : "Evening",
+      "completedAt" : 1762830575.1061349,
+      "level" : 4,
+      "nextCompletionDate" : 1765163375.106142
+    },
+    {
+      "nextCompletionDate" : 1765163496.8206449,
+      "frontText" : "Free not busy",
+      "completedAt" : 1762830696.820636,
+      "level" : 4,
+      "completed" : true,
+      "backText" : "Dak1 haan4"
+    },
+    {
+      "backText" : "Si4 gaan1",
+      "frontText" : "Time",
+      "completedAt" : 1762830692.1871691,
+      "level" : 4,
+      "nextCompletionDate" : 1765163492.187176,
+      "completed" : true
+    },
+    {
+      "completed" : true,
+      "level" : 4,
+      "frontText" : "Have something to do",
+      "completedAt" : 1762830724.233418,
+      "backText" : "Yow ye zjo",
+      "nextCompletionDate" : 1765163524.233429
+    }
+  ],
+  "isSpacedRepetition" : false
+}

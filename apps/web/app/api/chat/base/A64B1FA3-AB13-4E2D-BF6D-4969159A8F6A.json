@@ -1,0 +1,168 @@
+{
+  "name" : "Restraunt",
+  "isTutorial" : false,
+  "isSpacedRepetition" : true,
+  "cards" : [
+    {
+      "backText" : "Si6 jing3",
+      "level" : 1,
+      "completedAt" : 1763652995.6482692,
+      "nextCompletionDate" : 1763739395.648273,
+      "frontText" : "Waiter \/ waitress",
+      "completed" : true
+    },
+    {
+      "backText" : "Cing2 Man6",
+      "nextCompletionDate" : 1763739057.8640399,
+      "completedAt" : 1763652657.8640342,
+      "frontText" : "May i ask",
+      "completed" : true,
+      "level" : 1
+    },
+    {
+      "completedAt" : 1763652705.8324928,
+      "backText" : "Customer",
+      "completed" : true,
+      "level" : 1,
+      "nextCompletionDate" : 1763739105.832504,
+      "frontText" : "Gu3 Haak3"
+    },
+    {
+      "completedAt" : 1763652598.126842,
+      "nextCompletionDate" : 1763738998.126848,
+      "completed" : true,
+      "level" : 1,
+      "frontText" : "Animal",
+      "backText" : "Dung6 mat6"
+    },
+    {
+      "completedAt" : 1763652652.828321,
+      "backText" : "Ngo4",
+      "level" : 2,
+      "completed" : true,
+      "frontText" : "Goose",
+      "nextCompletionDate" : 1763911852.828325
+    },
+    {
+      "frontText" : "Sushi",
+      "nextCompletionDate" : 1763739049.0639,
+      "backText" : "Sau si",
+      "level" : 1,
+      "completedAt" : 1763652649.0638871,
+      "completed" : true
+    },
+    {
+      "nextCompletionDate" : 1763739077.230705,
+      "frontText" : "Shrimp dumplings",
+      "completedAt" : 1763652677.2306972,
+      "backText" : "Haa Gau",
+      "completed" : true,
+      "level" : 1
+    },
+    {
+      "completedAt" : 1763652778.972522,
+      "nextCompletionDate" : 1763739178.9725339,
+      "level" : 1,
+      "completed" : true,
+      "backText" : "(Jat1) Di1",
+      "frontText" : "Some \/ couple of"
+    },
+    {
+      "completedAt" : 1763652682.8127589,
+      "completed" : true,
+      "backText" : "Sik6 Jin1",
+      "frontText" : "Smoke cigarettes",
+      "level" : 1,
+      "nextCompletionDate" : 1763739082.8127699
+    },
+    {
+      "level" : 1,
+      "backText" : "Co5",
+      "completed" : true,
+      "frontText" : "Sit",
+      "completedAt" : 1763652680.0299721,
+      "nextCompletionDate" : 1763739080.029978
+    },
+    {
+      "level" : 1,
+      "backText" : "Ni sei zek gau",
+      "completed" : true,
+      "completedAt" : 1763652670.8287539,
+      "nextCompletionDate" : 1763739070.8287611,
+      "frontText" : "Ni \/ go + number + measure word + noun \nThese 4 dogs"
+    },
+    {
+      "completed" : true,
+      "level" : 1,
+      "frontText" : "Come",
+      "backText" : "Gwo3 Lau4",
+      "completedAt" : 1763652767.051172,
+      "nextCompletionDate" : 1763739167.0511842
+    },
+    {
+      "level" : 1,
+      "completed" : true,
+      "nextCompletionDate" : 1763739112.9844389,
+      "frontText" : "Reserve seats",
+      "backText" : "Deng6 Wai2",
+      "completedAt" : 1763652712.984427
+    },
+    {
+      "frontText" : "Last Name",
+      "nextCompletionDate" : 1763738987.6575351,
+      "backText" : "Sing3",
+      "completedAt" : 1763652587.6575289,
+      "completed" : true,
+      "level" : 1
+    },
+    {
+      "backText" : "Cing2",
+      "completed" : true,
+      "frontText" : "Formal way to say please or May i",
+      "nextCompletionDate" : 1763739010.8434649,
+      "level" : 1,
+      "completedAt" : 1763652610.8434582
+    },
+    {
+      "backText" : "Dim2 Caan1",
+      "level" : 1,
+      "completed" : true,
+      "frontText" : "Order food",
+      "completedAt" : 1763652992.6488829,
+      "nextCompletionDate" : 1763739392.64889
+    },
+    {
+      "completed" : true,
+      "nextCompletionDate" : 1763739198.6544728,
+      "frontText" : "Menu",
+      "level" : 1,
+      "backText" : "Coi3 daan1",
+      "completedAt" : 1763652798.6544619
+    },
+    {
+      "level" : 2,
+      "nextCompletionDate" : 1763911909.6306429,
+      "backText" : "Jiu3",
+      "completed" : true,
+      "frontText" : "Want",
+      "completedAt" : 1763652709.63064
+    },
+    {
+      "frontText" : "Place an order",
+      "completed" : true,
+      "backText" : "Lok6 Daan1",
+      "nextCompletionDate" : 1763739386.5166259,
+      "completedAt" : 1763652986.5166149,
+      "level" : 1
+    },
+    {
+      "nextCompletionDate" : 1763739019.1444731,
+      "frontText" : "Bathroom (polite)",
+      "backText" : "Sai Sau Gaan",
+      "level" : 1,
+      "completed" : true,
+      "completedAt" : 1763652619.144469
+    }
+  ],
+  "isTranslationEnabled" : true
+}

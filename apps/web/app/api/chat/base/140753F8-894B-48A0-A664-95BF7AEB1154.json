@@ -1,0 +1,80 @@
+{
+  "isTutorial" : false,
+  "isSpacedRepetition" : true,
+  "name" : "food",
+  "isTranslationEnabled" : true,
+  "cards" : [
+    {
+      "nextCompletionDate" : 1765164328.8496461,
+      "frontText" : "Food",
+      "completedAt" : 1762831528.8496389,
+      "level" : 4,
+      "completed" : true,
+      "backText" : "sik6 mat6"
+    },
+    {
+      "completedAt" : 1762831525.767077,
+      "backText" : "Jam2 ban2",
+      "level" : 4,
+      "completed" : true,
+      "frontText" : "Drink",
+      "nextCompletionDate" : 1765164325.7670841
+    },
+    {
+      "backText" : "Siu1 mei2",
+      "level" : 4,
+      "completed" : true,
+      "nextCompletionDate" : 1765164336.033462,
+      "frontText" : "Roasted meet",
+      "completedAt" : 1762831536.0334549
+    },
+    {
+      "nextCompletionDate" : 1765164320.682641,
+      "completedAt" : 1762831520.6826382,
+      "frontText" : "Raw",
+      "level" : 4,
+      "backText" : "Saang1",
+      "completed" : true
+    },
+    {
+      "backText" : "Syu4 zai2",
+      "nextCompletionDate" : 1765164311.3783898,
+      "completed" : true,
+      "completedAt" : 1762831511.3783841,
+      "level" : 4,
+      "frontText" : "Potato"
+    },
+    {
+      "completed" : true,
+      "nextCompletionDate" : 1765164314.6332269,
+      "completedAt" : 1762831514.6332169,
+      "backText" : "Ngau4 naai3",
+      "frontText" : "Milk",
+      "level" : 4
+    },
+    {
+      "frontText" : "Juice",
+      "backText" : "Gwo2 zap1",
+      "completed" : true,
+      "level" : 4,
+      "nextCompletionDate" : 1765164317.4498348,
+      "completedAt" : 1762831517.4498281
+    },
+    {
+      "backText" : "Mai Choi",
+      "nextCompletionDate" : 1765164333.70069,
+      "completedAt" : 1762831533.7006822,
+      "completed" : true,
+      "level" : 4,
+      "frontText" : "Grocery shopping (lit: buy vegetables)"
+    },
+    {
+      "level" : 4,
+      "nextCompletionDate" : 1765164307.081043,
+      "backText" : "Ling4 sik6",
+      "completed" : true,
+      "frontText" : "Snack",
+      "completedAt" : 1762831507.0810351
+    }
+  ]
+}

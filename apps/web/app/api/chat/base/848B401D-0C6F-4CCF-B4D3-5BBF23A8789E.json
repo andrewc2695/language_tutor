@@ -1,0 +1,228 @@
+{
+  "isTranslationEnabled" : true,
+  "isSpacedRepetition" : true,
+  "name" : "shopping",
+  "isTutorial" : false,
+  "cards" : [
+    {
+      "backText" : "Maai4 Daan1",
+      "completed" : false,
+      "frontText" : "Pay the bill",
+      "level" : 0
+    },
+    {
+      "completedAt" : 1763768763.7030931,
+      "completed" : true,
+      "frontText" : "Cash",
+      "backText" : "Jin6 Gam1",
+      "nextCompletionDate" : 1763855163.7030969,
+      "level" : 1
+    },
+    {
+      "backText" : "Seon3 Jung6 kaa1",
+      "level" : 0,
+      "completed" : false,
+      "frontText" : "Credit Card"
+    },
+    {
+      "backText" : "Daa2 Baau1",
+      "frontText" : "Pack up food",
+      "completed" : false,
+      "level" : 0
+    },
+    {
+      "level" : 0,
+      "frontText" : "Or",
+      "completed" : false,
+      "backText" : "Ding6 hai6"
+    },
+    {
+      "completed" : false,
+      "level" : 0,
+      "frontText" : "Receive",
+      "backText" : "Sau1"
+    },
+    {
+      "completed" : true,
+      "backText" : "Jap6",
+      "level" : 1,
+      "completedAt" : 1763768733.244195,
+      "frontText" : "Enter",
+      "nextCompletionDate" : 1763855133.2442031
+    },
+    {
+      "completedAt" : 1763768749.2618489,
+      "backText" : "Kau3 Mat6",
+      "level" : 1,
+      "completed" : true,
+      "nextCompletionDate" : 1763855149.261857,
+      "frontText" : "Shopping"
+    },
+    {
+      "level" : 0,
+      "completed" : false,
+      "frontText" : "Pants \/ shorts",
+      "backText" : "Fu3"
+    },
+    {
+      "frontText" : "Dress \/ skirt",
+      "backText" : "Kwan4",
+      "completed" : false,
+      "level" : 0
+    },
+    {
+      "level" : 0,
+      "frontText" : "Pair of",
+      "completed" : false,
+      "backText" : "Deoi3"
+    },
+    {
+      "completed" : true,
+      "level" : 1,
+      "frontText" : "Shoes",
+      "backText" : "Haai4",
+      "nextCompletionDate" : 1763855144.7943931,
+      "completedAt" : 1763768744.794384
+    },
+    {
+      "completedAt" : 1763768787.296556,
+      "level" : 1,
+      "frontText" : "Socks",
+      "backText" : "Mat6",
+      "completed" : true,
+      "nextCompletionDate" : 1763855187.2965651
+    },
+    {
+      "completed" : true,
+      "level" : 1,
+      "backText" : "Mei5 gam1",
+      "completedAt" : 1763768757.462029,
+      "nextCompletionDate" : 1763855157.462039,
+      "frontText" : "US dollar"
+    },
+    {
+      "completed" : false,
+      "frontText" : "Big",
+      "backText" : "Daai6",
+      "level" : 0
+    },
+    {
+      "backText" : "Sai3",
+      "level" : 0,
+      "frontText" : "Small",
+      "completed" : false
+    },
+    {
+      "frontText" : "Long",
+      "completed" : false,
+      "level" : 0,
+      "backText" : "Choeng4"
+    },
+    {
+      "frontText" : "Short",
+      "completed" : false,
+      "level" : 0,
+      "backText" : "Dyun2"
+    },
+    {
+      "frontText" : "Wide",
+      "level" : 0,
+      "completed" : false,
+      "backText" : "Fut3"
+    },
+    {
+      "frontText" : "Narrow",
+      "completed" : false,
+      "backText" : "Zaak3",
+      "level" : 0
+    },
+    {
+      "completed" : true,
+      "level" : 1,
+      "frontText" : "I want to buy a red shirt",
+      "backText" : "Ngo5 seong2 maai5 jat1 gin6 hung4 sik1 ge3 saam1",
+      "completedAt" : 1763768843.9967599,
+      "nextCompletionDate" : 1763855243.996767
+    },
+    {
+      "frontText" : "Department store",
+      "completed" : false,
+      "backText" : "Baak3 fo3 gung1 si1",
+      "level" : 0
+    },
+    {
+      "frontText" : "Fitting room",
+      "completed" : false,
+      "level" : 0,
+      "backText" : "Si3 san1 sat1"
+    },
+    {
+      "completed" : false,
+      "frontText" : "To Try",
+      "level" : 0,
+      "backText" : "Si3 san1"
+    },
+    {
+      "completed" : true,
+      "nextCompletionDate" : 1763855122.424669,
+      "frontText" : "Inside",
+      "level" : 1,
+      "backText" : "Jap6 bin1",
+      "completedAt" : 1763768722.4246559
+    },
+    {
+      "level" : 1,
+      "backText" : "Ceot1 bin1",
+      "completed" : true,
+      "completedAt" : 1763768736.594321,
+      "nextCompletionDate" : 1763855136.594332,
+      "frontText" : "Outside"
+    },
+    {
+      "frontText" : "center",
+      "backText" : "Zung1 gaan1",
+      "completed" : false,
+      "level" : 0
+    },
+    {
+      "completed" : true,
+      "frontText" : "Maa5",
+      "completedAt" : 1763768723.489985,
+      "backText" : "Size",
+      "nextCompletionDate" : 1763855123.489994,
+      "level" : 1
+    },
+    {
+      "backText" : "Gaa1 sai3 maa5",
+      "nextCompletionDate" : 1763855178.2669392,
+      "completedAt" : 1763768778.2669339,
+      "completed" : true,
+      "level" : 1,
+      "frontText" : "Extra small"
+    },
+    {
+      "completed" : false,
+      "level" : 0,
+      "frontText" : "Small (clothes size)",
+      "backText" : "Sai3 maa5"
+    },
+    {
+      "backText" : "Zung1 maa5",
+      "level" : 0,
+      "completed" : false,
+      "frontText" : "Medium (clothes size)"
+    },
+    {
+      "level" : 0,
+      "frontText" : "Large clothes size",
+      "completed" : false,
+      "backText" : "Daai6 maa5"
+    },
+    {
+      "backText" : "Gaa1 Daai6 maa5",
+      "completed" : false,
+      "frontText" : "Xl clothes size",
+      "level" : 0
+    }
+  ]
+}

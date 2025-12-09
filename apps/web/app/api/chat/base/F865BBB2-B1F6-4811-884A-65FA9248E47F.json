@@ -1,0 +1,24 @@
+{
+  "name" : "pronouns",
+  "cards" : [
+    {
+      "frontText" : "Myself",
+      "completedAt" : 1762830509.215549,
+      "level" : 4,
+      "backText" : "Ngo5 zi6 gei2",
+      "nextCompletionDate" : 1765163309.215611,
+      "completed" : true
+    },
+    {
+      "completedAt" : 1762830512.3152599,
+      "level" : 4,
+      "frontText" : "Alone",
+      "backText" : "Ngo5 zi6 gei2 jat1 go3 jan4",
+      "completed" : true,
+      "nextCompletionDate" : 1765163312.3152871
+    }
+  ],
+  "isTutorial" : false,
+  "isTranslationEnabled" : true,
+  "isSpacedRepetition" : true
+}

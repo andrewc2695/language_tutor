@@ -1,0 +1,48 @@
+{
+  "isSpacedRepetition" : true,
+  "isTranslationEnabled" : true,
+  "isTutorial" : false,
+  "name" : "frequency",
+  "cards" : [
+    {
+      "nextCompletionDate" : 1765163336.2957439,
+      "frontText" : "Usually",
+      "completedAt" : 1762830536.295737,
+      "level" : 4,
+      "completed" : true,
+      "backText" : "Tung1 soeng4"
+    },
+    {
+      "backText" : "Seng4 jat6",
+      "completed" : true,
+      "frontText" : "Always",
+      "completedAt" : 1762830562.681216,
+      "level" : 4,
+      "nextCompletionDate" : 1765163362.6812229
+    },
+    {
+      "completedAt" : 1762830555.1680651,
+      "nextCompletionDate" : 1765163355.168071,
+      "level" : 4,
+      "completed" : true,
+      "backText" : "Jau5 si4",
+      "frontText" : "Sometimes"
+    },
+    {
+      "backText" : "Hou2 siu2",
+      "completed" : true,
+      "level" : 4,
+      "completedAt" : 1762830530.42768,
+      "nextCompletionDate" : 1765163330.427691,
+      "frontText" : "Seldom (lit really small)"
+    },
+    {
+      "backText" : "Cung4 loi4 mh4",
+      "level" : 4,
+      "completedAt" : 1762830564.9832129,
+      "completed" : true,
+      "nextCompletionDate" : 1765163364.9832211,
+      "frontText" : "Never"
+    }
+  ]
+}

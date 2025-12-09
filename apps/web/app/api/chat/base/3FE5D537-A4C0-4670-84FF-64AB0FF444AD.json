@@ -1,0 +1,232 @@
+{
+  "isTranslationEnabled" : true,
+  "name" : "restraunts",
+  "isSpacedRepetition" : true,
+  "cards" : [
+    {
+      "backText" : "Caan1 teng1",
+      "level" : 4,
+      "completed" : true,
+      "nextCompletionDate" : 1765941060.3066781,
+      "frontText" : "Restraunt",
+      "completedAt" : 1763608260.30667
+    },
+    {
+      "completedAt" : 1763608292.675215,
+      "nextCompletionDate" : 1765941092.675221,
+      "level" : 4,
+      "completed" : true,
+      "backText" : "Caa4 Caan1 teng1",
+      "frontText" : "Hong Kong style restraunt"
+    },
+    {
+      "completedAt" : 1763608376.0472331,
+      "frontText" : "Cooked food stalls",
+      "nextCompletionDate" : 1765941176.0472388,
+      "level" : 4,
+      "backText" : "Daai6 Paai4 Dong3",
+      "completed" : true
+    },
+    {
+      "backText" : "Faai3 Caan1 Dim3",
+      "nextCompletionDate" : 1765941039.872947,
+      "completedAt" : 1763608239.8729351,
+      "completed" : true,
+      "frontText" : "Fast food shop",
+      "level" : 4
+    },
+    {
+      "backText" : "Gou1 Kap1 Caan1 Teng1",
+      "completedAt" : 1763608302.3932929,
+      "nextCompletionDate" : 1765941102.393301,
+      "level" : 4,
+      "completed" : true,
+      "frontText" : "Fine Dining"
+    },
+    {
+      "backText" : "Gaa3 Fe Teng",
+      "completedAt" : 1763608379.413753,
+      "nextCompletionDate" : 1765941179.4137599,
+      "level" : 4,
+      "frontText" : "Cafe",
+      "completed" : true
+    },
+    {
+      "nextCompletionDate" : 1765941166.1131091,
+      "completedAt" : 1763608366.113102,
+      "frontText" : "Buffett Restraunt",
+      "level" : 4,
+      "backText" : "Zi6 Zo6 Caan1 Teng1",
+      "completed" : true
+    },
+    {
+      "frontText" : "Food Truck",
+      "backText" : "Caan1 Ce1",
+      "completed" : true,
+      "level" : 4,
+      "nextCompletionDate" : 1765941157.9301429,
+      "completedAt" : 1763608357.930135
+    },
+    {
+      "frontText" : "Bar",
+      "completedAt" : 1763608347.129174,
+      "nextCompletionDate" : 1765941147.1291819,
+      "completed" : true,
+      "level" : 4,
+      "backText" : "Zau2 baa1"
+    },
+    {
+      "backText" : "Wui6",
+      "completedAt" : 1763608105.916162,
+      "nextCompletionDate" : 1765940905.9161692,
+      "level" : 4,
+      "completed" : true,
+      "frontText" : "I’ll go to bars sometimes (the will in I’ll) - talking about usual habits"
+    },
+    {
+      "backText" : "Si6 Do1 \/ zaap6 fo3 pou3",
+      "completed" : true,
+      "frontText" : "Grocery store",
+      "completedAt" : 1763608166.9209418,
+      "level" : 4,
+      "nextCompletionDate" : 1765940966.9209518
+    },
+    {
+      "completedAt" : 1763608250.7576561,
+      "backText" : "Soeng4 choeng4",
+      "completed" : true,
+      "level" : 4,
+      "nextCompletionDate" : 1765941050.7576671,
+      "frontText" : "Mall"
+    },
+    {
+      "nextCompletionDate" : 1765941169.896704,
+      "frontText" : "Convenience store",
+      "completedAt" : 1763608369.8966961,
+      "level" : 4,
+      "completed" : true,
+      "backText" : "Bin6 lei6 dim3"
+    },
+    {
+      "backText" : "Tong4 sik6",
+      "level" : 4,
+      "completedAt" : 1763608402.6823311,
+      "completed" : true,
+      "nextCompletionDate" : 1765941202.6823401,
+      "frontText" : "Dine in"
+    },
+    {
+      "completedAt" : 1763608247.540009,
+      "backText" : "Ngoi6 maai6",
+      "level" : 4,
+      "completed" : true,
+      "frontText" : "Take out",
+      "nextCompletionDate" : 1765941047.540019
+    },
+    {
+      "completedAt" : 1763608283.6428339,
+      "nextCompletionDate" : 1765941083.6428421,
+      "level" : 4,
+      "backText" : "Peng4",
+      "frontText" : "Cheap",
+      "completed" : true
+    },
+    {
+      "backText" : "Gwai",
+      "completed" : true,
+      "level" : 4,
+      "completedAt" : 1763608218.07026,
+      "nextCompletionDate" : 1765941018.0702629,
+      "frontText" : "Expensive"
+    },
+    {
+      "completed" : true,
+      "nextCompletionDate" : 1765940998.120261,
+      "completedAt" : 1763608198.120254,
+      "backText" : "Lit6 naau6",
+      "frontText" : "Lively",
+      "level" : 4
+    },
+    {
+      "backText" : "Zing6",
+      "frontText" : "Quiet",
+      "completedAt" : 1763608095.6499481,
+      "level" : 4,
+      "nextCompletionDate" : 1765940895.6499581,
+      "completed" : true
+    },
+    {
+      "nextCompletionDate" : 1765940992.237576,
+      "frontText" : "Awful food",
+      "backText" : "Naan4 sik6",
+      "level" : 4,
+      "completed" : true,
+      "completedAt" : 1763608192.2375689
+    },
+    {
+      "frontText" : "Delicious",
+      "completed" : true,
+      "completedAt" : 1763608263.357733,
+      "level" : 4,
+      "backText" : "Hou2 Sik6",
+      "nextCompletionDate" : 1765941063.3577418
+    },
+    {
+      "nextCompletionDate" : 1765940961.3213301,
+      "completed" : true,
+      "frontText" : "Fast",
+      "level" : 4,
+      "backText" : "Faai3",
+      "completedAt" : 1763608161.3213229
+    },
+    {
+      "backText" : "Maan6",
+      "completed" : true,
+      "frontText" : "Slow",
+      "nextCompletionDate" : 1765940943.8526959,
+      "level" : 4,
+      "completedAt" : 1763608143.8526878
+    },
+    {
+      "completed" : true,
+      "frontText" : "Dirty \/ filthy",
+      "level" : 4,
+      "backText" : "Wu1 zou1 \/ laat6 taht3",
+      "completedAt" : 1763608288.2102211,
+      "nextCompletionDate" : 1765941088.2102299
+    },
+    {
+      "level" : 3,
+      "nextCompletionDate" : 1762976620.8591518,
+      "backText" : "Gon1 zeng3",
+      "completed" : true,
+      "frontText" : "Clean",
+      "completedAt" : 1762199020.859144
+    },
+    {
+      "completed" : true,
+      "frontText" : "Serve a dish",
+      "completedAt" : 1763608187.220556,
+      "backText" : "Soeng5 coi3",
+      "level" : 4,
+      "nextCompletionDate" : 1765940987.2205639
+    },
+    {
+      "backText" : "Dang2 wai2",
+      "level" : 4,
+      "completed" : true,
+      "frontText" : "Wait to be seated",
+      "completedAt" : 1763608308.5764952,
+      "nextCompletionDate" : 1765941108.5765018
+    },
+    {
+      "level" : 4,
+      "frontText" : "Chicken speaks with duck",
+      "backText" : "Gai1 tung4 app3 gong2",
+      "nextCompletionDate" : 1765940977.4692791,
+      "completed" : true,
+      "completedAt" : 1763608177.469269
+    }
+  ],
+  "isTutorial" : false
+}
