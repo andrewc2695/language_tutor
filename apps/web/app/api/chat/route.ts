@@ -12,7 +12,7 @@ export async function POST(req: Request) {
       return new Response("Messages must be an array", { status: 400 });
     }
 
-    const agent = SentenceAgent();
+    const agent = ConversationAgent();
 
     const result = await agent.stream({
       messages: convertToModelMessages(messages),
